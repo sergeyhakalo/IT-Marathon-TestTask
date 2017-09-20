@@ -1,0 +1,85 @@
+.col-lg-3 {
+  margin-left: 20px;
+  border: solid black;
+  padding: 10px;
+}
+
+.col-lg-3 > h4 {
+  margin-bottom: 20px;
+}
+
+.jumbotron > p {
+  text-align: center;
+}
+
+.navbar {
+  float: right;
+  margin-bottom: 30px;
+}
+
+.row {
+  clear: both;
+}
+
+.pic {
+  width: 150px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.jumbotron {
+  border: black solid;
+}
+
+.navbar-default {
+  font-family: sans-serif;
+  font-size: 18px;
+  position: absolute;
+}
+
+.bottom {
+  border-top: solid black;
+  margin-top: 30px;
+}
+
+.col-md-auto {
+  padding-right: 10px;
+}
+
+.bot1::after {
+  content: "|";
+  padding-left: 10px;
+}
+
+.bot2::after {
+  content: "|";
+  padding-left: 10px;
+}
+
+.navbar-nav {
+  padding: 20px 10px 100px;
+  border: black solid;
+}
+
+.marketing {
+  justify-content: center;
+}
+
+.li-item {
+  padding: 7px;
+}
+
+.pic {
+  width: 150px;
+  height: 150px;
+  border: solid black;
+  border-radius: 50%;
+  margin-bottom: 20px;
+  background-color: #999999;
+}
+
+.logo {
+  padding: 40px;
+  width: 30px;
+  text-transform: uppercase;
+}
